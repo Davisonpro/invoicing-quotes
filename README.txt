@@ -2,9 +2,9 @@
 Contributors: stiofansisland, paoltaia, ayecode
 Donate link: https://wpgetpaid.com
 Tags:  invoice, invoicing, quote, estimates, quotes, recurring payments, paypal, VAT MOSS, HTML invoice, HTML quote, estimate, HTML estimate, billing, bills, bill clients, invoice clients, email invoice, invoice online, recurring invoice, recurring billing, invoice generator, invoice system, accounting, ecommerce, check out, shopping cart, stripe, 2check out, authorize.net, paypal pro, sagepay, payfast
-Requires at least: 4.9
-Tested up to: 6.9
-Stable tag: 2.0.9
+Requires at least: 6.0
+Tested up to: 7.0
+Stable tag: 2.0.10
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -31,9 +31,9 @@ Get timely and friendly support for both Core Plugin and add-ons at our official
 
 = Minimum Requirements =
 
-* WordPress 4.9 or greater
+* WordPress 6.0 or greater
 * PHP version 5.3 or greater
-* MySQL version 5.0 or greater
+* MySQL version 8.0 or greater
 
 = Automatic installation =
 
@@ -61,6 +61,9 @@ Automatic updates should seamlessly work. We always suggest you backup up your w
 3. Quote view.
 
 == Changelog ==
+
+= 2.0.10 - 2026-06-04 =
+* WordPress 7.0 compatibility check - COMPATIBILITY
 
 = 2.0.9 - 2025-12-04 =
 * WordPress 6.9 compatibility check - COMPATIBILITY

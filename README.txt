@@ -3,7 +3,7 @@ Contributors: stiofansisland, paoltaia, ayecode
 Donate link: https://wpgetpaid.com
 Tags:  invoice, invoicing, quote, estimates, quotes, recurring payments, paypal, VAT MOSS, HTML invoice, HTML quote, estimate, HTML estimate, billing, bills, bill clients, invoice clients, email invoice, invoice online, recurring invoice, recurring billing, invoice generator, invoice system, accounting, ecommerce, check out, shopping cart, stripe, 2check out, authorize.net, paypal pro, sagepay, payfast
 Requires at least: 6.0
-Tested up to: 7.0
+Tested up to: 7.1
 Stable tag: 2.0.10
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -13,6 +13,7 @@ Quotes add-on for the WordPress payments plugin  GetPaid. Allows you to create q
 == Description ==
 
 = Quotes add-on for the GetPaid plugin =
+
 Allows you to create quotes, send them to clients and convert them to Invoices when accepted by the customer. This plugin requires to install the [GetPaid plugin](https://wordpress.org/plugins/invoicing/)
 
 = Features =
@@ -21,18 +22,23 @@ Allows you to create quotes, send them to clients and convert them to Invoices w
 * Quotes can be turned into invoices when accepted and client can pay online.
 
 = This plugin requires you to install =
+
 [GetPaid  plugin](https://wordpress.org/plugins/invoicing/)
 
 = Support =
 
 Get timely and friendly support for both Core Plugin and add-ons at our official website, [GetPaid Support](https://wpgetpaid.com/support/)
 
+== Security ==
+
+To report a security vulnerability, please review our [vulnerability disclosure policy](https://ayecode.io/vulnerability-disclosure-policy/).
+
 == Installation ==
 
 = Minimum Requirements =
 
 * WordPress 6.0 or greater
-* PHP version 5.3 or greater
+* PHP version 7.2 or greater
 * MySQL version 8.0 or greater
 
 = Automatic installation =
